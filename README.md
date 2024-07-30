@@ -22,7 +22,8 @@ https://replit.com/@ebukannalue1132/XBUGBOTX-MD-1
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
+### Deployment on Render
+href='https://dashboard.render.com/login
 
 ### DEPLOYMENT ON TERMUX
 
