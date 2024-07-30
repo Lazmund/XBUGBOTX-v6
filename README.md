@@ -1,16 +1,16 @@
-<h1 align="center"> Devil_Cat-V2.0 </h1>
+<h1 align="center"> XBUGBOTX-v6 </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ; XBUGBOTX-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+XBUGBOTX+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+XBUGBOTX BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably design by XBUGBOTX Kingsley and  Henry martain
 
-If you clone my repo or use as base bot, dont forget to give credits. Lord No Name Rulez😶
+If you clone my repo or use as base bot, dont forget to give credits. XBUGBOTX Rules ☢️☢️
 
-1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Ebukannalue1132/XBUGBOTX-v6** A must . Make sure to add a star 🌟 to encourage the developers please add star.
    
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
