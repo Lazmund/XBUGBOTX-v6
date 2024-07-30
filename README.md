@@ -60,7 +60,7 @@ git clone  (copy and paste your forked repo not mine to save your changes)
 
 7. After that type: 
 
-cd Devil_Cat-V2.0
+cd XBUGBOTX-v6
 
 8. after that type:
 
@@ -83,35 +83,35 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/message/2DAGP33CWIDHD1) 
+WhatsApp: (https://wa.me/message/6HBOC3YOP37UP1) 
 
 If the bot goes offline 
 Just type cd and the bot name 
 Then type npm start
 It will come online
 
-`Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
+`Please XBUGBOTX-v6 BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to XBUGBOTX-v6 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
    **Xeon** who made the base bot
 
-   **Re-Jeong** For helping me test it
+   **henry-martain** For helping me test it
    
-   **Toxxic** for inspiration; <br>
+   **henry-and my brother** for inspiration; <br>
 
 
 ## License
 
-The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot XBUGBOTX-v6 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developers:
 
--Lord No Name
+-XBUGBOTX MD
