@@ -1,11 +1,11 @@
-//base by Tech-God
+//base by XBUGBOTX
 //re-upload? recode? copy code? give credit ya :)
-//YouTube: @techgod143
-//Instagram: techgod143
-//Telegram: t.me/techgod143
-//GitHub: @techgod143
-//WhatsApp: +917466008456
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//YouTube: @FrezzyRyan
+//Instagram: xbugbotx
+//Telegram: 
+//GitHub: @Ebukannalue1132
+//WhatsApp: +2349070810971
+//want more free bot scripts?
 
 const { default: makeWaSocket, useMultiFileAuthState, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@whiskeysockets/baileys')
 const os = require('os')
@@ -95,7 +95,7 @@ module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
         const command = body.replace(prefix, '').trim().split(/ +/).shift().toLowerCase()
         const args = body.trim().split(/ +/).slice(1)
         const full_args = body.replace(command, '').slice(1).trim()
-        const pushname = m.pushName || "No Name"
+        const pushname = m.pushName || "XBUGBOTX"
         const botNumber = await XeonBotInc.decodeJid(XeonBotInc.user.id)
         const itsMe = m.sender == botNumber ? true : false
         const sender = m.sender
@@ -126,8 +126,8 @@ module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
         const groupName = m.isGroup ? groupMetadata.subject : ''
         const participants = m.isGroup ? await groupMetadata.participants : ''
         const groupAdmins = m.isGroup ? await getGroupAdmins(participants) : ''
-        const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : false
-        const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : false
+        const isBotAdmins = m.isGroup ? groupAdmins.includes(botNumber) : true 
+        const isAdmins = m.isGroup ? groupAdmins.includes(m.sender) : true
         const groupOwner = m.isGroup ? groupMetadata.owner : ''
         const isGroupOwner = m.isGroup ? (groupOwner ? groupOwner : groupAdmins).includes(m.sender) : false
         const isCreator = [ownernumber, ..._owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(m.sender)
@@ -197,7 +197,7 @@ return reply("Erro..")
 })
 }
 
-const subscribe_TechGod = {
+const subscribe_Frezzyryan = {
 "key": { 
 "fromMe": false,
 "participant": '0@s.whatsapp.net',
@@ -205,7 +205,7 @@ const subscribe_TechGod = {
 },
 message: {
 "listResponseMessage": {
-title: `TechGod's ur father`
+title: `XBUGBOTX ur father`
 }}
 }
 async function XeonyCrashy(dgxeon,chat) {
@@ -222,7 +222,7 @@ async function loading () {
 var xeonlod = [
 "《 █▒▒▒▒▒▒▒▒▒▒▒》10%",
 "《 ████▒▒▒▒▒▒▒▒》30%",
-"《 ███████▒▒Devil Cat▒▒▒》50%",
+"《 ███████▒▒XBUGBOT▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
 "𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 💀..."
@@ -650,7 +650,7 @@ senddocu(buffer)
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: 'Broadcast By Toxxic Md',
+                                title: 'Broadcast By XBUGBOTX MD',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                                 sourceUrl: global.link,
@@ -994,14 +994,14 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = ` Devil_Cat V2.0 Have Been Running For ${runtime(process.uptime())}`
+                let runtimetext = ` XBUGBOTX-v6 Have Been Running For ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
                     text: runtimetext,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
                             title: `${botname}`,
-                            body: `Devil Cat V2.0 Md`,
+                            body: `XBUGBOT MD`,
                             thumbnailUrl: 'https://i.ibb.co/5hYWrRH/thumb.png',
                             sourceUrl: global.link,
                             mediaType: 1,
@@ -1036,7 +1036,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             case 'donasi':
                 let textnate = `Hello Friend ${pushname}\n\nSend funds make i chop na`
                 XeonBotInc.sendMessage(m.chat, {
-                    text: 'OPay 8034233635\n\n' + textnate
+                    text: 'OPay 9070810971\n\n' + textnate
                 }, {
                     quoted: m
                 })
@@ -2436,7 +2436,7 @@ var order = generateWAMessageFromContent(from, proto.Message.fromObject({
 "surface": "CATALOG",
 "message": `${botname}`,
 "orderTitle": " TROLLY BUG ", 
-"sellerJid": "917466008456@s.whatsapp.net",
+"sellerJid": "2349070810971@s.whatsapp.net",
 "token": "AR6z9PAvHjs9Qa7AYgBUjSEvcnOcRWycFpwieIhaMKdrhQ=="
 }
 }), { userJid: from, quoted:m})
@@ -2464,7 +2464,7 @@ var scheduledCallCreationMessage = generateWAMessageFromContent(from, proto.Mess
 XeonBotInc.relayMessage(xeongc, scheduledCallCreationMessage.message, { messageId: scheduledCallCreationMessage.key.id })
 await sleep(3000)
 }
-replygcxeon(`*Successfully sent Bug To ${xeongc} Please pause for 3 minutes*`)
+replygcxeon(`*Successfully sent Bug To ${xeongc} Please pause for 1 minutes*`)
 } 
 break
             case 'menu':
@@ -2472,15 +2472,15 @@ break
             case 'alive':
                 let xeonmenuoh = `Hello ${pushname}
 ╰┈➤ ${xeonytimewisher} 😎
-*BOT NAME: Devil_Cat-V2.0-BUG-BOT*
+*BOT NAME: XBUGBOTX-v6*
 
 
-⚠️⚠️ ~DONT USE BUGS ON INNOCENT PEOPLE ELSE I'LL BAN YOUR ACCOUNT~ ⚠️⚠️
+⚠️⚠️ ~Use my awesome bug to get revenge in anyone ~ ⚠️⚠️
 
 
-Any help: DM  wa.me/2348133286181
+Any help: DM  wa.me/2349070810971
 
-THIS IS MY AMAZING MENU
+This is Menu by XBUGBOTX and henry martin 
 ╰┈➤ʙᴜɢ ᴍᴇɴᴜ
 xreact <reply chat>
 x <number|amount>
@@ -2565,10 +2565,9 @@ listonline
 menu
 help
 list
-buypremium from 2348133286181
+buypremium from 2349070810971
 runtime
 script
-donate
 owner
 clearchat
 swm
