@@ -15,7 +15,7 @@ If you clone my repo or use as base bot, dont forget to give credits. XBUGBOTX R
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
 Fork the repl to get pair code for whatsApp
-https://replit.com/@haotak/DevilCat-1?v=1
+https://replit.com/@ebukannalue1132/XBUGBOTX-MD-1
 
 **DEPLOYMENT PROCESS**
 ### DEPLOY ON REPLIT
